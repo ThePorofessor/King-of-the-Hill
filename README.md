@@ -104,7 +104,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 <details>
 <summary><strong> Roguemon Classic Penalties </strong></summary>
+  
 ![Penalty Modifiers](Resources/Penalty-Modifiers.PNG)
+
 </details>
 
 <details>

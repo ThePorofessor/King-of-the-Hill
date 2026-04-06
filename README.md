@@ -72,6 +72,8 @@ In this example, there is a favorite (Pokemon you drafted or universal pick), a 
 
 <h1 align="center">CHAMPION BOONS</h1>
 
+At the end of each round, the top scoring players will get the opportunity to add drafting rules (known as boons) to the next round. First place will have options that can drastically change most drafting phase while second and third place will have the chance to ban specific Pokemon. If a player has a specific rule that is not listed below, please contact the competition organizers to see if it would be feasible.
+
 | Boon | Description | Availability |
 |:---:|---|---|
 | **Double Trouble** | All favorite picks must contain dual typing |  |
@@ -101,8 +103,8 @@ An additional tiebreaker condition can be applied to Rivals. Please note that th
 A penalty modifier increases your overall seed count if a specific condition is activated during your longest PB. Please note that this only applies to the third tiebreaker (Players defeating the same number of trainers and pokemon). The modifers are as follows:
 
 <details>
-<summary><strong> Roguemon Classic Penalties
-![Penalty Modifiers](Resources/Penalty-Modifiers.PNG) </strong></summary>
+<summary><strong> Roguemon Classic Penalties </strong></summary>
+![Penalty Modifiers](Resources/Penalty-Modifiers.PNG)
 </details>
 
 <details>

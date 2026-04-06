@@ -14,17 +14,22 @@ Roguemon Rivals is a competitive format for the Roguemon Pokemon challenge where
 
 If this is your first time playing Roguemon Rivals, more information on how to draft, how to pivot, and how to score your runs can be found on the original rules page ([OG Rules Page](https://github.com/ThePorofessor/Roguemon-Rivals/tree/main)).
 
+
 <h1 align="center">How is King of the Hill Unique?</h1>
 
 Roguemon Rivals at its core is a 1-on-1 battle (emphasis on the 1-on-1 aspect) where your success is determined entirely on your individual decision making and seed luck with respect to a single competitor. Roguemon Rivals is an excellent way to play Roguemon with friends and the community as decision making is at an all time high with the drafting phase, but it can be restrictive for groups of players that want to play together. In the past the community has created a [Tournament Series](https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series) that expanded the player count up to 16 participants in a single elimination format. However, this expansion was characterized by a restricted player count and the significant time requirements. These pitfalls is where King of the Hill excels. 
 
 King of the Hill is unique in that you are now playing a free for all against all competitors rather than a 1-on-1 match. Each round your goal is to survive the cut and advance to the next round. This variant is faster, more competitive, highly variable (see below) and more accessible to community events. Now you can play with multiple friends or join the open community tournaments.
 
+---
+
 <h1 align="center">ROUND OVERVIEW</h1>
 
 King of the Hill is a competitive format that takes place over three weeks and contains no player limit. Each week players will run 50 seeds of a single predetermined type using their drafted favorite pokemon and universal picks (see Drafting Phase below). At the end of each week, players will be scored based on their furthest run (known as a personal best or PB) and the lower 50% of players will be eliminated from the competition. The top 50% of players will continue onto the next round where a new type and drafting phase will be introduced.
 
 At the start of each round, the player scores are reset to ensure an even and competitive battle for the top spots. Eventhough the scores are reset, there is significant incentives to reaching the top spot (furthest run) through the Champion Boon system (see below).
+
+---
 
 <h1 align="center">DRAFTING PHASE</h1>
 
@@ -68,7 +73,7 @@ In this example, there is a favorite (Pokemon you drafted or universal pick), a 
 
 </details>
 
-
+---
 
 <h1 align="center">CHAMPION BOONS</h1>
 
@@ -86,6 +91,8 @@ At the end of each round, the top scoring players will get the opportunity to ad
 | **Feel the Rainbow** | Every Player's draft must have at least 3 unique types |  |
 | **Old Dog** | At least one of your favorites must learn 3 or less moves before evo |  |
 | **Lone Wolves** | Pokemon that utilize friendship evolutions are banned from drafting |  |
+
+---
 
 <h1 align="center">TIEBREAKERS</h1>
 
@@ -114,6 +121,8 @@ A penalty modifier increases your overall seed count if a specific condition is 
   
 </details>
 
+---
+
 <h1 align="center">RESOURCES</h1>
 
 [Draft Tracker](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
@@ -121,6 +130,8 @@ A penalty modifier increases your overall seed count if a specific condition is 
 [Pivot Data and Rankings](https://docs.google.com/spreadsheets/d/1tiS6qI93a8kvGv_6gLdTAVDttsU-ztQQgtx_xshBj_c/edit)
 
 [Pokemon Sprites (Sugimori and Global Artwork)](https://drive.google.com/drive/folders/1QnI2yFlTVyjq3geyzwmnrr3_cxNlNjzI?usp=sharing)
+
+---
 
 <h1 align="center">FREQUENTLY ASKED QUESTIONS</h1>
 
@@ -163,6 +174,8 @@ Unfortunately, it is not since the VODs would not be viewable after you ended th
 <summary><strong> Is time machining allowed for simple mistakes? </strong></summary>
 To avoid an exhaustive list of yes and no’s, all use of time machine will be banned.
  </details>
+
+---
 
 <h1 align="center">CREDITS</h1>
 

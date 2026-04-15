@@ -41,7 +41,7 @@ At the start of each round all participants will vote on universal picks that al
 
 <h1 align="center">PIVOTING GUIDELINES</h1>
 
-Pivoting is dictated by what you drafted. Unlike the classic ruleset for Roguemon Rivals, King of the Hill does not require the abandoned balls. **Repeat everyone can scout for their favorites!** Since scouting is allowed, you can ONLY run your favorite pokemon. Nemesis and Undrafted Pokemon are banned outside of the lab. With that in mind, the lab rules are:
+Pivoting is dictated by what you drafted. Unlike the classic ruleset for Roguemon Rivals, King of the Hill does not require the abandoned balls. **Repeat everyone can scout for their favorites!** Since scouting is allowed, you can ONLY run your favorite pokemon. Undrafted Poekmon can be used up until the first trainer, but cannot be used as a runner. Nemesis Pokemon are are banned outside of the lab. With that in mind, the lab rules are:
 
 ### Lab Priorities:
 1.	You must select a drafted pokemon (Universal or Your Favorite)

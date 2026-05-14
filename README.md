@@ -83,7 +83,7 @@ At the end of each round, the top scoring players will get the opportunity to ad
 |:---:|---|---|---|
 | **Anti-Social** | The top 10% of community universal votes are banned unless they win the popular vote | 1st Place | All Types |
 | **Dictator** | The leader decides all communal universal picks | 1st Place | All Types |
-| **Double Trouble** | All favorite picks must contain dual typing | 1st place | Bug Dark Dragon Fairy Ghost Grass Ground Ice Normal Psychic Rock Steel Water |
+| **Double Trouble** | All favorite picks must contain dual typing | 1st place | ![Bug](Resources/Bug(small).png) Dark Dragon Fairy Ghost Grass Ground Ice Normal Psychic Rock Steel Water |
 | **Draft with Phonics** | Drafts must be picked in alphabetical order | 1st Place | All Types |
 | **False Start** | All base game starters are banned from drafting | 1st Place | Fire Grass Water |
 | **Foster Care** | If a favorite is in the abandoned balls, you must take them | 1st Place | All Types |

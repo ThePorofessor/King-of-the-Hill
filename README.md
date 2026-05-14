@@ -135,7 +135,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 [Draft Tracker](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
 
-[Pivot Data and Rankings](https://docs.google.com/spreadsheets/d/1tiS6qI93a8kvGv_6gLdTAVDttsU-ztQQgtx_xshBj_c/edit)
+[Pivot Data and Rankings](https://docs.google.com/spreadsheets/d/1zq-M--9Jb4GTpdZMbvmEHwkKGRNkcs_fxrWiKGcLMkY/edit?usp=sharing)
 
 [Pokemon Sprites (Sugimori and Global Artwork)](https://drive.google.com/drive/folders/1QnI2yFlTVyjq3geyzwmnrr3_cxNlNjzI?usp=sharing)
 

@@ -83,21 +83,21 @@ At the end of each round, the top scoring players will get the opportunity to ad
 |:---:|---|---|---|
 | **Anti-Social** | The top 10% of community universal votes are banned unless they win the popular vote | 1st Place | All Types |
 | **Dictator** | The leader decides all communal universal picks | 1st Place | All Types |
-| **Double Trouble** | All favorite picks must contain dual typing | 1st place | ![Bug](Resources/Bug2.png) Dark Dragon Fairy Ghost Grass Ground Ice Normal Psychic Rock Steel Water |
+| **Double Trouble** | All favorite picks must contain dual typing | 1st place | ![Bug](Resources/Bug.png) ![Dark](Resources/Dark.png) ![Dragon](Resources/Dragon.png) ![Fairy](Resources/Fairy.png) ![Ghost](Resources/Ghost.png) ![Grass](Resources/Grass.png) ![Ground](Resources/Ground.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Rock](Resources/Rock.png) ![Steel](Resources/Steel.png) ![Water](Resources/Water.png) |
 | **Draft with Phonics** | Drafts must be picked in alphabetical order | 1st Place | All Types |
-| **False Start** | All base game starters are banned from drafting | 1st Place | Fire Grass Water |
+| **False Start** | All base game starters are banned from drafting | 1st Place | ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Water](Resources/Water.png) |
 | **Foster Care** | If a favorite is in the abandoned balls, you must take them | 1st Place | All Types |
 | **Insufficient Funds** | Ookemon with BST > 399 are banned from drafting | 1st Place | All Types |
-| **Late Bloomers** | Pokemon that would evo in the forest are banned from drafting | 1st Place | Bug Electric Fairy Fire Flying Grass Normal Poison Psychic Water |
-| **Monoculture** | All dual tpying Pokemon are banned from drafting | 1st Place | Dragon Electric Fairy Fighting Fire Grass Ice Normal Psychic Water |
+| **Late Bloomers** | Pokemon that would evo in the forest are banned from drafting | 1st Place | ![Bug](Resources/Bug.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fire](Resources/Fire.png) ![Flying](Resources/Flying.png) ![Grass](Resources/Grass.png) ![Normal](Resources/Normal.png) ![Poison](Resources/Poison.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
+| **Monoculture** | All dual tpying Pokemon are banned from drafting | 1st Place | ![Dragon](Resources/Dragon.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
 | **Weekly Allowance** | Each player's draft may not exceed a BST Limit | 1st Place | All Types |
 | | | | |
 | **Babysitting** | At least one of your favorites must be a sub-300 BST Pokemon | 2nd Place | All Types |
 | **Bougie** | Every player must draft a roguestone evolution first | 2nd Place | All Types |
-| **Collapsed Mine** | Pokemon that utilize Roguestone Evolutions are banned from drafting | 2nd Place | Dark Fairy Fighting Fire Flying Ghost Grass Ground Ice Normal Psychic Rock Water |
+| **Collapsed Mine** | Pokemon that utilize Roguestone Evolutions are banned from drafting | 2nd Place | ![Dark](Resources/Dark.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Flying](Resources/Flying.png) ![Ghost](Resources/Ghost.png) ![Grass](Resources/Grass.png) ![Ground](Resources/Ground.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Rock](Resources/Rock.png) ![Water](Resources/Water.png) |
 | **Feel the Rainbow** | Every Player's draft must have at least 3 unique types | 2nd Place | All Types |
 | **Influencer** | All players must draft a favorite of your choice | 2nd Place | All Types |
-| **Lone Wolves** | Pokemon that utilize friendship evolutions are banned from drafting | 2nd Place | Bug Dark Fairy Fighting Flying Ghost Grass Normal Poison Psychic |
+| **Lone Wolves** | Pokemon that utilize friendship evolutions are banned from drafting | 2nd Place | ![Bug](Resources/Bug.png) ![Dark](Resources/Dark.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Flying](Resources/Flying.png) ![Ghost](Resources/Ghost.png) ![Grass](Resources/Grass.png) ![Normal](Resources/Normal.png) ![Poison](Resources/Poison.png) ![Psychic](Resources/Psychic.png) |
 | **Old Dog** | At least one of your favorites must learn 3 or less moves before evo | 2nd Place | All Types |
 | | | | |
 | **Blacklisted** | Ban a Pokemon from the draft phase (universal vote AND autodrafter) | 3rd Place | All Types |

@@ -3,8 +3,6 @@
 ### [ROUND OVERVIEW](#ROUND-OVERVIEW) | [DRAFTING](#DRAFTING-PHASE) | [PIVOTING](#PIVOTING-GUIDELINES) | [BOONS](#CHAMPION-BOONS) | [TIEBREAKERS](#TIEBREAKERS) | [PENALTIES](#PENALTY-MODIFIERS) | [RESOURCES](#RESOURCES) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
 ---
-![King of the Hill Banner](Resources/KingoftheHillBanner.png)
-
 
 Welcome to Roguemon Rivals – King of the Hill. This is a variant of the competitive Roguemon Rivals that challenges players to a free for all climb to the top. Competitors will fight to maintain the furthest runs to avoid getting cut from the competition until only the Champion remains.
 
